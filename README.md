@@ -2,5 +2,7 @@
 CSS POOL_Estilizandocomatitude
 [ebook - CCS POOL.pdf](https://github.com/KarinaRezende/Ebook_KarinaRezende/files/15505077/ebook.-.CCS.POOL.pdf)
 Ação	prompt
-título	Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos
-conteúdo	Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+
+![0 - nerdy women who like deadpool thoughtful](https://github.com/KarinaRezende/Ebook_KarinaRezende/assets/169544131/593e9679-30d1-412a-b319-39e5cc5dad4e)
+Esse ebook foi criado com interação humana e inteligência artificial com o fins didáticos .
+![image](https://github.com/KarinaRezende/Ebook_KarinaRezende/assets/169544131/948c6953-f9ba-4143-a34d-a74c7c293c18)
